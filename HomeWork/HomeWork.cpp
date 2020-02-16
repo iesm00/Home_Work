@@ -9,10 +9,12 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    std::cout << "Hello everyone!\n";
+    cout << "Hello World!\n";
+    cout << "Hello everyone!\n";
+    cout << "Hello everyone!\n";
+    
 }
-
+/////
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
