@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#include <string>
 #include <vector>
 #include <algorithm>
 #include <algorithm>
@@ -17,7 +18,7 @@ int main()
     cout << "Hello everyone!\n";
     cout << "Hello everyone!\n";
     cout << "Hello everyone!\n";
-    
+    cout << "Main Branch";
 }
 /////
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
